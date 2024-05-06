@@ -1,5 +1,5 @@
 function exampleTwo() {
-    
+
     function one() {
         doWork()
     }
